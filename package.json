@@ -1,0 +1,1 @@
+{"name": "buttontwitch", "version": "1.0.0", "description": "An Electron-based video editing tool for creating advanced video highlights.", "main": "main.js", "scripts": {"start": "electron ."}, "keywords": [], "author": "", "license": "ISC", "devDependencies": {"electron": "latest"}}
