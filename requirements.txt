@@ -1,0 +1,5 @@
+# Python dependencies
+flask
+requests
+
+# Add other dependencies here if necessary
